@@ -1,6 +1,6 @@
 <!-- GLITCH HACKER HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=70&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CYBERTECHITESH" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=70&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CYBERTEC_HITESH" alt="Name" />
 </div>
 
 <div align="center">
@@ -12,8 +12,8 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ukcooltech&label=Profile%20Views&color=00ff00&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.youtube.com/@ukcooltech"><img src="https://img.shields.io/youtube/channel/subscribers/?style=for-the-badge&logo=youtube&label=Subscribe&color=FF0000" alt="YouTube Subscribers"/></a>
-  <a href="https://twitter.com/haxtron_cyber_tech"><img src="https://img.shields.io/twitter/follow/cybertechajju?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter" /></a>
-  <a href="https://github.com/uttarkhandcooltech"><img src="https://img.shields.io/github/followers/cybertechajju?style=for-the-badge&logo=github&color=00FF00" alt="GitHub Followers" /></a>
+  <a href="https://twitter.com/haxtron_cyber_tech"><img src="https://img.shields.io/twitter/follow/Haxtron_cyber_Hero?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter" /></a>
+  <a href="https://github.com/uttarkhandcooltech"><img src="https://img.shields.io/github/followers/uttarkhadcoo?style=for-the-badge&logo=github&color=00FF00" alt="GitHub Followers" /></a>
 </p>
 
 <!-- HACKER TERMINAL STYLE -->
