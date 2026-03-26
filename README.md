@@ -1,6 +1,6 @@
 <!-- GLITCH HACKER HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=70&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hitesh Verma" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=70&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CyberTech Hitesh" alt="Name" />
 </div>
 
 <div align="center">
@@ -51,8 +51,8 @@
 ```python
 class CyberTechAjju:
     def __init__(self):
-        self.name = "Ajay Meena"
-        self.alias = "CyberTechAjju"
+        self.name = "Hitesh Verma"
+        self.alias = "Haxtron_Cyber_Tech"
         self.role = "Security Researcher"
         self.location = "India 🇮🇳"
         self.languages = ["Python", "Bash", "PHP", "JS"]
