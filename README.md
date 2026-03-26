@@ -49,7 +49,7 @@
 ### 👨‍💻 Who Am I?
 
 ```python
-class CyberTechAjju:
+class Hitesh:
     def __init__(self):
         self.name = "Hitesh Verma"
         self.alias = "Haxtron_Cyber_Tech"
