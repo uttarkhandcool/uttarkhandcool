@@ -1,6 +1,6 @@
 <!-- GLITCH HACKER HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=70&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CYBERTEC_HITESH" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=70&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CYBER_TECh_HITESH" alt="Name" />
 </div>
 
 <div align="center">
