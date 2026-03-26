@@ -1,6 +1,6 @@
 <!-- GLITCH HACKER HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=70&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CyberTech Hitesh" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=70&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CYBERTECHITESH" alt="Name" />
 </div>
 
 <div align="center">
@@ -10,17 +10,17 @@
 
 <!-- PROFILE STATS BADGES -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=cybertechajju&label=Profile%20Views&color=00ff00&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.youtube.com/@cybertechajju"><img src="https://img.shields.io/youtube/channel/subscribers/UCiKcQN5fu7Cl9zNnk84yNhA?style=for-the-badge&logo=youtube&label=Subscribe&color=FF0000" alt="YouTube Subscribers"/></a>
-  <a href="https://twitter.com/cybertechajju"><img src="https://img.shields.io/twitter/follow/cybertechajju?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter" /></a>
-  <a href="https://github.com/cybertechajju"><img src="https://img.shields.io/github/followers/cybertechajju?style=for-the-badge&logo=github&color=00FF00" alt="GitHub Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ukcooltech&label=Profile%20Views&color=00ff00&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.youtube.com/@ukcooltech"><img src="https://img.shields.io/youtube/channel/subscribers/?style=for-the-badge&logo=youtube&label=Subscribe&color=FF0000" alt="YouTube Subscribers"/></a>
+  <a href="https://twitter.com/haxtron_cyber_tech"><img src="https://img.shields.io/twitter/follow/cybertechajju?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter" /></a>
+  <a href="https://github.com/uttarkhandcooltech"><img src="https://img.shields.io/github/followers/cybertechajju?style=for-the-badge&logo=github&color=00FF00" alt="GitHub Followers" /></a>
 </p>
 
 <!-- HACKER TERMINAL STYLE -->
 <div align="center">
   
 ```bash
-┌──(cybertechajju㉿kali)-[~]
+┌──(cybertecHaxtron㉿kali)-[~]
 └─$ cat about_me.txt
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -141,7 +141,7 @@ class CyberTechAjju:
 <td width="50%" align="center">
 
 <a href="https://github.com/uttarkhandcool>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertechajju&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttarkhandcool&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
 </a>
 
 **💻 Top Languages**
@@ -158,7 +158,7 @@ class CyberTechAjju:
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cybertechajju&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=uttarkhandcool&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
 </p>
 
 <div align="center">
@@ -196,5 +196,5 @@ class CyberTechAjju:
 </p>
 
 <p align="center">
-  <b>Made with ❤️ by CyberTechAjju</b>
+  <b>Made with ❤️ by Hitesh_Verma</b>
 </p>
